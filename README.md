@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kausik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 ## My Reliable Toolsets These Days: 🛠️
 - `bun`, `hono`, `react`, `tanstack`, `tailwind`
