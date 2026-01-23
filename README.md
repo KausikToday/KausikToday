@@ -7,7 +7,7 @@
 - `python`, ...
 - `expo`, ...
 
-### My creative software of choices for now and beyond: 📦
+### My creative software of choices: 📦
 - `figma`               : ui/ux
 - `affinity`            : illustration
 - `davinci resolve`     : video editing
