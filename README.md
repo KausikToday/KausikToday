@@ -8,9 +8,9 @@
 - expo, ...
 
 ### My creative software of choices for now and beyond:
-- figma
-- affinity
-- davinci resolve
-- audacity
-- blender
-- unreal engine
+- figma               : ui/ux
+- affinity            : illustration
+- davinci resolve     : video editing
+- audacity            : audio editing
+- blender             : 3D
+- unreal engine       : game dev
