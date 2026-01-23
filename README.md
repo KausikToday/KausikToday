@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My reliable toolsets these days: 🛠️
+## My Reliable Toolsets These Days: 🛠️
 - `bun`, `hono`, `react`, `tanstack`, `tailwind`
 - `postgresql`, `sqlite`
 - `rust`, `axum`, ...
