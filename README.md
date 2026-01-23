@@ -30,4 +30,6 @@
 - `Thinking Fast and Slow`
 - `$100M Offers`
 - `Hooked`
+
+
 for a full list of books see [slow-reading](https://github.com/kausikds/slow-reading)
