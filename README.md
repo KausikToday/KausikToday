@@ -3,17 +3,18 @@
 ## My Reliable Toolsets These Days: 🛠️
 - `bun`, `hono`, `react`, `tanstack`, `tailwind`
 - `postgresql`, `sqlite`
-- `rust`, `axum`, ...
-- `python`, ...
+- `rust`, `axum`, `tokio`, ...
+- `python`, `data`...
 - `expo`, ...
 
-### My creative software of choices: 📦
+### My creative software of choices: `learning one-by-one..` 📦
 - `figma`               : ui/ux
 - `affinity`            : illustration
 - `davinci resolve`     : video editing
 - `audacity`            : audio editing
-- `blender`             : 3D
-- `unreal engine`       : game dev
+- `godot`               : 2D game dev
+- `unreal engine`       : 3D game dev
+- `blender`             : 3D assets production
 
 ## My Book List: `reading slowly..` 📗
 - `Designing Data Intensive Applications`
