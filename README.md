@@ -1,6 +1,6 @@
 ## Kausik Das — Full-Stack Developer & SaaS Founder
 
-Built and launched inSheet.app — a Google Sheets add-on 
+Built and launched [inSheet.app](https:insheet.app) — a Google Sheets add-on 
 for marketing agencies that auto-pulls Google Ads, Meta 
 Ads, GA4 and database data on a schedule.
 
