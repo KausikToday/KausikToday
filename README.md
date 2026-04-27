@@ -1,4 +1,4 @@
-## Kausik Das — Full-Stack Developer & SaaS Founder
+## Kausik Das — GTM/Growth Engineer & SaaS Founder
 
 Built and launched [inSheet.app](https://insheet.app/) — a Google Sheets add-on 
 for marketing agencies that auto-pulls Google Ads, Meta 
@@ -9,4 +9,4 @@ Tailwind · Cloudflare Workers · SQL · Python
 
 Currently: Growing inSheet to 100 paid customers.
 
-Open to: Remote full-stack or technical roles.
+Open to: Remote GTM Engineering roles.
