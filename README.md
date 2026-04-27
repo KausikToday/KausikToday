@@ -5,7 +5,7 @@ for marketing agencies that auto-pulls Google Ads, Meta
 Ads, GA4, YouTube Analytics, PostgreSQL and MySQL data on a schedule.
 
 Stack: TypeScript · Hono · React · TanStack Start · 
-Tailwind · Cloudflare Workers · SQL · Python
+Tailwind · Cloudflare Workers · SQL · Python · Rust
 
 Currently: Growing inSheet to 100 paid customers.
 
