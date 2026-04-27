@@ -1,4 +1,4 @@
-## Kausik Das — GTM/Growth Engineer & SaaS Founder
+## Kausik Das — GTM Engineer & SaaS Founder
 
 Built and launched [inSheet.app](https://insheet.app/) — a Google Sheets add-on 
 for marketing agencies that auto-pulls Google Ads, Meta 
