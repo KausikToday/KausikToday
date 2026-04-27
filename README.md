@@ -8,4 +8,5 @@ Stack: TypeScript · Hono · React · TanStack Start ·
 Tailwind · Cloudflare Workers · SQL · Python
 
 Currently: Growing inSheet to 100 paid customers.
+
 Open to: Remote full-stack or technical roles.
