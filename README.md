@@ -9,4 +9,4 @@ Tailwind · SQL · Python · Rust
 
 🌱 Currently: Growing inSheet to 100 paid customers.
 
-⚡ Open to: partnering with SaaS companies to design and implement automated outbound systems.
+⚡ Open to: partnering with SaaS companies to design and implement their automated outbound systems.
