@@ -8,4 +8,4 @@ a Google Sheets add-on for marketing agencies that auto-pulls Google Ads, Meta A
 🌱 Currently: Growing inSheet to 100 paid customers.
 
 ### ⚡ Open to partnering with SaaS companies 
-to design and implement their **Automated Outbound Systems**.
+to design and implement their **Product or Automated Outbound Systems**.
