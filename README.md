@@ -3,7 +3,7 @@
 ### 📦 Built and launched [inSheet.app](https://insheet.app/) 
 a Google Sheets add-on for marketing agencies that auto-pulls Google Ads, Meta Ads, GA4, YouTube Analytics, PostgreSQL and MySQL data on a schedule.
 
-🛠️ Stack: TypeScript · Hono · TanStack Start · PostgreSQL · Python · Pydantic AI · Rust · Axum
+🛠️ Stack:: Rust · Axum · PostgreSQL · Python · Pydantic AI · TypeScript · TanStack Start · Hono
 
 🌱 Currently: Growing inSheet to 100 paid customers.
 
